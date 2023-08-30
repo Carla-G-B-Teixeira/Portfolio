@@ -1,0 +1,5 @@
+Apresento aqui as trilhas de aprendizado que estou evoluindo no momento.
+Uso o JIRA SOFTWARE para organizar e planejar todas as tarefas relativas. Utilizei, no JIRA, o formato SRUM, criando os projetos, versões, épicos, histórias e tarefas relativas a cada trilha.
+Uso o CONFLUENCE para documentar as aulas e faço o link com o projeto/história pertinente no JIRA SOFTWARE.
+
+Para visualizar as minhas trilhas atuais que estou desenvolvendo acesse o arquivo "Visão Geral Trilha de Aprendizado - Carla G B Teixeira"
