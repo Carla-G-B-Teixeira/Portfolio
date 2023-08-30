@@ -1,5 +1,3 @@
 Leia-me
-
-Origem dos Dados
-Analise das Candidaturas Realizadas por Mim
 Objetiva-se obter a taxa de empregabilidade e obter pontos de melhoria no processo de candidaturas às vagas.
+Estudo de caso em construção
