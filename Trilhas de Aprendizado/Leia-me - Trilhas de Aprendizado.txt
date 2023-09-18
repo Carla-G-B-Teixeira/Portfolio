@@ -1,5 +1,7 @@
-Apresento aqui as trilhas de aprendizado que estou evoluindo no momento.
-Uso o JIRA SOFTWARE para organizar e planejar todas as tarefas relativas. Utilizei, no JIRA, o formato SRUM, criando os projetos, versões, épicos, histórias e tarefas relativas a cada trilha.
-Uso o CONFLUENCE para documentar as aulas e faço o link com o projeto/história pertinente no JIRA SOFTWARE. Oportunamente, pratico as cerimônias SCRUM, gráficos BurnDown da Sprint entre outros recursos.
+Uso o JIRA SOFTWARE para organizar e planejar todas as tarefas relativas aos meus aprendizados. Utilizei, no JIRA, o formato SRUM, criando os projetos, versões, épicos, histórias e tarefas relativas a cada trilha.
+Uso o CONFLUENCE para documentar as aulas e faço o link com o projeto/história pertinente no JIRA SOFTWARE. 
+Oportunamente, pratico as cerimônias SCRUM, gráficos BurnDown da Sprint entre outros recursos.
 Achei jóia, ao mesmo tempo que evoluo nestes aprendizados, já utilizar as proprias ferramentas na prática consolidando os conhecimentos.
-
+Quer dar uma olhada no que estou evoluindo no momento?
+ÁGILE - SCRUM - PRODUCT OWNER
+DATA SCIENCE - DATA ANALYTICS
